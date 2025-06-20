@@ -16,7 +16,7 @@ I'm a backend web developer with a passion for solving real-world problems using
 
 ### 🔧 Projects
 Here are a few projects that showcase my skills and interests:
-#### Work in Progress
+- 🙏 **Wishlist Manager** - Simple backend API to manage personal wishlists with JWT auth and CRUD. Built with FastAPI + MongoDB + Docker.
 
 ➡️ Check out the pinned repos below for code and documentation.
 
