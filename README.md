@@ -17,6 +17,7 @@ I'm a backend web developer with a passion for solving real-world problems using
 ### 🔧 Projects
 Here are a few projects that showcase my skills and interests:
 - 🙏 **Wishlist Manager** - Simple backend API to manage personal wishlists with JWT auth and CRUD. Built with FastAPI + MongoDB + Docker.
+- ⏰ **Telegram Reminder Bot** - A simple Telegram bot that lets users create, list, and receive reminders using natural Telegram commands. Built using python-telegram-bot v20+, asyncio, and SQLAlchemy with SQLite.
 
 ➡️ Check out the pinned repos below for code and documentation.
 
