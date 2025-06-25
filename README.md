@@ -7,8 +7,8 @@ I'm a backend web developer with a passion for solving real-world problems using
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript (Node.js), SQL
-- **Frameworks:** Django, Flask, Express.js
+- **Languages:** Python
+- **Frameworks:** Django, Flask, FastAPI
 - **Databases:** PostgreSQL, MongoDB
 - **DevOps & Tools:** Git, Docker, REST APIs, Linux
 
