@@ -7,7 +7,7 @@ I'm a backend web developer with a passion for solving real-world problems using
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python
+- **Languages:** Python, Kotlin
 - **Frameworks:** Django, Flask, FastAPI
 - **Databases:** PostgreSQL, MongoDB
 - **DevOps & Tools:** Git, Docker, REST APIs, Linux
@@ -16,6 +16,7 @@ I'm a backend web developer with a passion for solving real-world problems using
 
 ### 🔧 Projects
 Here are a few projects that showcase my skills and interests:
+- 🎵 **jlyric2anki** - A CLI tool that converts Japanese song lyrics (in Kanji) into Anki flashcards for sentence mining and vocabulary learning. Built using fugashi, jamdict, genanki, typer, rich, jaconv, argostranslate and gTTS.
 - 🙏 **Wishlist Manager** - Simple backend API to manage personal wishlists with JWT auth and CRUD. Built with FastAPI + MongoDB + Docker.
 - ⏰ **Telegram Reminder Bot** - A simple Telegram bot that lets users create, list, and receive reminders using natural Telegram commands. Built using python-telegram-bot v20+, asyncio, and SQLAlchemy with SQLite.
 
@@ -24,7 +25,7 @@ Here are a few projects that showcase my skills and interests:
 ---
 
 ### 🌿 What I'm Looking For
-- Remote backend developer roles (Python, Node.js)
+- Remote backend developer roles (Python, Kotlin)
 - Part-time or freelance opportunities
 - Projects that value quality over chaos
 
