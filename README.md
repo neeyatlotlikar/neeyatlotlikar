@@ -7,7 +7,7 @@ I'm a backend web developer with a passion for solving real-world problems using
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, Kotlin
+- **Languages:** Python
 - **Frameworks:** Django, Flask, FastAPI
 - **Databases:** PostgreSQL, MongoDB
 - **DevOps & Tools:** Git, Docker, REST APIs, Linux
@@ -25,7 +25,7 @@ Here are a few projects that showcase my skills and interests:
 ---
 
 ### 🌿 What I'm Looking For
-- Remote backend developer roles (Python, Kotlin)
+- Remote backend developer roles (Python)
 - Part-time or freelance opportunities
 - Projects that value quality over chaos
 
