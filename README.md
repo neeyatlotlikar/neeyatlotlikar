@@ -16,7 +16,7 @@ I'm a backend web developer with a passion for solving real-world problems using
 
 ### 🔧 Projects
 Here are a few projects that showcase my skills and interests:
-- ⏬ **RapidPyFetchL** - A browser extension based solution for managing downloads ouside the browser environment facilitating parellel processing and faster downloads.
+- ⏬ **RapidPyFetch** - A browser extension based solution for managing downloads ouside the browser environment facilitating parellel processing and faster downloads.
 - 🎵 **jlyric2anki** - A CLI tool that converts Japanese song lyrics (in Kanji) into Anki flashcards for sentence mining and vocabulary learning. Built using fugashi, jamdict, genanki, typer, rich, jaconv, argostranslate and gTTS.
 - 🔁 **RetryManiac** - A browser extension to automatically retry failed downloads within the browser.
 - ⏰ **Telegram Reminder Bot** - A simple Telegram bot that lets users create, list, and receive reminders using natural Telegram commands. Built using python-telegram-bot v20+, asyncio, and SQLAlchemy with SQLite.
